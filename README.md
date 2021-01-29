@@ -1,24 +1,7 @@
-# README
+Resources:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[**GraphQL on Rails:** From zero to the first query part1/3](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
 
-Things you may want to cover:
+[How To Set Up a Ruby on Rails GraphQL API](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-graphql-api)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[howtographql](https://www.howtographql.com/basics/0-introduction/)
