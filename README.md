@@ -5,3 +5,5 @@ Resources:
 [How To Set Up a Ruby on Rails GraphQL API](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-graphql-api)
 
 [howtographql](https://www.howtographql.com/basics/0-introduction/)
+
+[Use GraphQL with Ruby on Rails - Part 1 - Backend](https://www.youtube.com/watch?v=kSlJH3hrV58&t=310s)
